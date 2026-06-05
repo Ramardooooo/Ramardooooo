@@ -26,17 +26,14 @@ Building. Breaking. Learning. Repeating.
 ### Currently Working On
 
 * 🤖 Discord Bots
-* 🎮 SA-MP Gamemodes
 * 🌐 Websites
-* ⚡ Automation Projects
 
 ---
 
 ### Contact
 
-Discord: **ramardo**
-
-GitHub: **github.com/Ramardo**
+Discord: **ramardoaja**
+Instagram: **ramardo1_**
 
 ---
 
