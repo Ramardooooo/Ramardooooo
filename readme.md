@@ -2,15 +2,13 @@
 
 # RAMARDO
 
-Discord Bot Developer • SA-MP Developer • Web Developer
+Discord Bot Developer •  Web Developer
 
 </div>
 
 ---
 
-## Hi, I'm Ramardo 👋
-
-Nothing to see here, just building cool stuff.
+Building. Breaking. Learning. Repeating.
 
 <br>
 
