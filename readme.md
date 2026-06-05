@@ -26,7 +26,6 @@ Building. Breaking. Learning. Repeating.
 ### Currently Working On
 
 * 🤖 Discord Bots
-<br>
 * 🌐 Websites
 
 ---
@@ -34,6 +33,7 @@ Building. Breaking. Learning. Repeating.
 ### Contact
 
 Discord: **ramardoaja**
+
 Instagram: **ramardo1_**
 
 ---
