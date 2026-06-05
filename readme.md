@@ -13,8 +13,6 @@ Building. Breaking. Learning. Repeating.
 <br>
 
 <p>
-<img src="https://img.shields.io/badge/PAWN-F4F4F4?style=for-the-badge">
-<img src="https://img.shields.io/badge/SA:MP-C49A6C?style=for-the-badge">
 <img src="https://img.shields.io/badge/DISCORD.JS-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/NODE.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
