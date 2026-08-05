@@ -2,7 +2,7 @@
 
 # Hello World, I'm Ramardo
 
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThsODF5dnUyc3FrMzRvMWo2dzllYXdnMjdvN3drNms0ZGY2ZmY3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" height="100"/>
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThsODF5dnUyc3FrMzRvMWo2dzllYXdnMjdvN3drNms0ZGY2ZmY3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" height="200"/>
 
 ## 🚀 About Me
 
