@@ -45,11 +45,11 @@
 ### Let's Connect:
 <br>
 
-<a href="https://discord.gg/INVITEKAMU" target="_blank">
+<a href="https://discord.com/users/1022782819736485908" target="_blank">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/USERNAME_KAMU/" target="_blank">
+<a href="https://www.instagram.com/ramardo1_/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
