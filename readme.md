@@ -2,7 +2,7 @@
 
 ### Hello World, I'm Ramardo 👋
 
-<img align="right" alt="GIF" src="https://github.com/ramardooooo/ramardooooo/blob/main/animation/animation-hero.gif?raw=true" height="300"/>
+<img align="right" alt="GIF" src="https://github.com/Ramardooooo/animation/blob/main/animation-hero.gif?raw=true" height="300"/>
 
 ## I'm a dev Newbie, with vision of being AI passionate, Geek !!
 - ✍ You can find my achievements here.
