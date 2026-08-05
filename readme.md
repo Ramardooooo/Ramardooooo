@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ramardooooo&style=flat-square)
 
-### Hello World, I'm Ramardo 👋 aka Ramardo ⭐:
+### Hello World, I'm Ramardo 👋
 
 <img align="right" alt="GIF" src="https://github.com/ramardooooo/ramardooooo/blob/main/animation/animation-hero.gif?raw=true" height="300"/>
 
