@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Ramardooooo/animation/blob/main/animation-hero.gif?raw=true" height="300"/>
 
-## I'm a dev Newbie, with vision of being AI passionate, Geek !!
+## I'm a developer Web & App
 - You can find my achievements here.
 - I’m currently learning JavaScript and its Frameworks.
 - I’m looking to collaborate on open source.
